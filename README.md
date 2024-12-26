@@ -12,7 +12,7 @@ The Smart Bluetooth Door Lock System is an AVR microcontroller-based security so
 
 ## Components
 - Arduino Uno (ATmega328P microcontroller)
-- Bluetooth module (e.g., HC-05)
+- Bluetooth module (HC-05)
 - IR Sensor
 - Buzzer
 - Resistors and connecting wires
