@@ -1,7 +1,7 @@
-# Smart Bluetooth Door Lock System
+# Bluetooth-Door-Monitoring-System
 
 ## Overview
-The Smart Bluetooth Door Lock System is an AVR microcontroller-based security solution designed to enhance door safety. This project leverages Bluetooth communication to control and monitor door security using a smartphone or other Bluetooth-enabled devices. The system also features an IR sensor and a buzzer for real-time door status monitoring and alerts.
+The Bluetooth-Door-Monitoring-System is an AVR microcontroller-based security solution designed to enhance door safety. This project leverages Bluetooth communication to control and monitor door security using a smartphone or other Bluetooth-enabled devices. The system also features an IR sensor and a buzzer for real-time door status monitoring and alerts.
 
 ## Features
 - **Bluetooth Communication**: Control the system remotely using Bluetooth.
