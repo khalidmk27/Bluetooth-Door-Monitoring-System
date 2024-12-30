@@ -37,7 +37,7 @@ Connect the components as follows:
 ### 2. Setting Up
 1. Clone the repository:
    ```
-   git clone https://github.com/khalidmk27/Smart-Bluetooth-Door-Lock-System.git
+   git clone https://github.com/khalidmk27/Bluetooth-Door-Monitoring-System.git
    ```
 2. Open the project in your development environment.
 3. Compile and upload the code to the Arduino Uno.
